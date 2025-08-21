@@ -4,6 +4,15 @@ Este repositório documenta a linha de aprendizado do curso, organizada em ordem
 
 ---
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img src="" alt="TypeScript">
+<img src="" alt="SQL">
+<img src="" alt="NoSQL">
+
+
+--- 
+
 ## 🚀 Módulos de Estudo
 
 1. **JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)**
