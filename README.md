@@ -4,7 +4,7 @@ Este repositório documenta a linha de aprendizado do curso, organizada em ordem
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='300px'/>
 
 <img src="" alt="TypeScript">
 <img src="" alt="SQL">
