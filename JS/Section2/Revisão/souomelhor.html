@@ -1,0 +1,40 @@
+<!Doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8"/>
+<title>Ex01 - const vs let</title>
+</head>
+<body>
+<h1>Ex01 - const vs let</h1>
+<script>
+// Largura e altura não mudam: use const
+const largura = 5;
+const altura = 3;
+
+// Cálculo pode mudar (ex.: se você testar outros valores): use let
+let perimetro = 2 * (largura + altura); // operação aritmética
+
+alert("Perímetro: " + perimetro);
+
+console.log('Isa mto linda')
+
+let pergunta = prompt('Você gostou?')
+
+if(pergunta.toLowerCase() == 'sim'){
+    alert('Obrigado!')
+}
+else{
+    alert('Vai a merda')
+}
+
+
+
+// TODO: troque altura para 6 (sem editar a linha const!)
+// Dica: crie uma NOVA variável com let e recalcule o perímetro.
+
+
+// // Exemplo de erro comum (NÃO FAÇA):
+// // largura = 10; // ERRO: não é permitido reatribuir const
+</script>
+</body>
+</html>
